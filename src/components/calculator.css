@@ -1,0 +1,38 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.operator {
+  text-align: center;
+  padding: 2rem;
+  font-size: 3rem;
+  background-color: rgb(221, 217, 217);
+  border: 1px solid rgb(202, 201, 201);
+  cursor: pointer;
+}
+
+.display {
+  grid-column: 1 / span 4;
+  text-align: end;
+  padding-right: 1rem;
+  background-color: rgb(162, 162, 168);
+  color: #fff;
+  cursor: default;
+}
+
+::placeholder {
+  color: #fff;
+}
+
+.operation {
+  background-color: rgb(240, 147, 65);
+}
+
+.zero {
+  grid-column: 1 / span 2;
+}
