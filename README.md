@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="src/murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magicians App</b></h3>
 
 </div>
 
@@ -51,7 +51,7 @@
 > Describe between 1-3 key features of the application.
 
 - **[key_feature_1]**
- -Home page
+ - Perform mathematical operations.
 
 
 <!-- GETTING STARTED -->
@@ -86,9 +86,9 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
--Clone the repository
--Open the project in your favourite text editor
--Run npm install to install project dependencie
+- Clone the repository `git clone https://github.com/Daniel-Kigozi/math-magicians`
+- Run `cd math-magicians`
+- Run `npm install`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,9 +96,13 @@ To run the project, execute the following command:
 
 👤 **Author1**
 
--GitHub: [Daniel-Kigozi](https://github.com/Daniel-Kigozi)
--Twitter: [@DanielKigozi15](https://twitter.com/@DanielKigozi15)
--LinkedIn: [daniel-kigozi-375182208/](https://www.linkedin.com/in/daniel-kigozi-375182208/)
+- GitHub: [Daniel-Kigozi](https://github.com/Daniel-Kigozi)
+- Twitter: [@DanielKigozi15](https://twitter.com/@DanielKigozi15)
+- LinkedIn: [daniel-kigozi-375182208/](https://www.linkedin.com/in/daniel-kigozi-375182208/)
+
+🔭 **Future Features**
+- Have more pages
+
 
 <!-- CONTRIBUTING -->
 
@@ -107,6 +111,31 @@ To run the project, execute the following command:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to give thanks to Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
