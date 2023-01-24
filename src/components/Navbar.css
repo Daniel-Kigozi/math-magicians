@@ -1,0 +1,16 @@
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  position: relative;
+  padding: 20px;
+  background-color: rgb(94, 91, 91);
+}
+
+header h1 {
+  font-size: 45px;
+  position: absolute;
+  left: 0;
+  top: -60%;
+  color: whitesmoke;
+}

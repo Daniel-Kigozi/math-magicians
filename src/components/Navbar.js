@@ -1,7 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import './Navbar.css';
 
-// eslint-disable-next-line import/prefer-default-export
+/* eslint-disable */
 export const Navbar = () => (
   <nav className="nav-bar">
     <header>
