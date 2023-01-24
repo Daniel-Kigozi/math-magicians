@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10% 20%;
+}
+
+.home-container h1 {
+  font-size: 50px;
+  text-align: left;
+}
+
+.home-container p {
+  font-size: 30px;
+  margin-top: 0;
+}
